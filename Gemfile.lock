@@ -2,12 +2,17 @@ GEM
   remote: https://rubygems.org/
   specs:
     awesome_print (1.9.2)
+    concurrent-ruby (1.2.3)
 
 PLATFORMS
+  aarch64-darwin
   arm64-darwin-23
+  ruby
+  universal-java-11
 
 DEPENDENCIES
   awesome_print
+  concurrent-ruby
 
 BUNDLED WITH
    2.4.19
